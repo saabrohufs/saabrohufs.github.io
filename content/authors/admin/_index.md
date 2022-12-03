@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Sajjad Ali
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Sajjad
+last_name: Ali
 
 # Status emoji
 status:
