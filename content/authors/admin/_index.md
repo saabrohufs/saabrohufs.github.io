@@ -14,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Artificial Intelligence Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Hankuk University of Foreign Studies
+    url: https://international.hufs.ac.kr/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -34,14 +34,14 @@ interests:
 education:
   courses:
     - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      institution: Hankuk University of Foreign Studies South Korea
+      year: 2019
+    - course: MS in Computer Science
+      institution: National University of Computer and Emerging Science NUCES-FAST
+      year: 2007
+    - course: BS in Information Technology
+      institution: University of Sindh
+      year: 2005
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Sajjad Ali is a researcher of artificial intelligence at a Public Sector Research and Development Organization. His research interests include Generative AI, Large Language Models and Diffusion Models. He leads the software engineering team, which develops enterprise software, predictive maintainance and analytics applications and conduct innovative research, designing and developing deep-learning models for analyzing sensor data.
 {style="text-align: justify;"}
