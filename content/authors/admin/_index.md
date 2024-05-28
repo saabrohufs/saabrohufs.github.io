@@ -34,7 +34,7 @@ interests:
 education:
   courses:
     - course: PhD in Artificial Intelligence
-      institution: Hankuk University of Foreign Studies South Korea
+      institution: Hankuk University of Foreign Studies, South Korea
       year: 2019
     - course: MS in Computer Science
       institution: National University of Computer and Emerging Science NUCES-FAST
